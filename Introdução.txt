@@ -1,3 +1,2 @@
 # MVP-Avaliacao-IHC-UX
-MVP da Sprint de Avaliação da Qualidade de Uso de Sistemas do curso de IHC/UX da PUC-Rio por Isabela Favaron. 
-A
+Aqui você irá encontrar o relatório da análise heurística e relatório dos testes com usuário do site https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda realizados para um trabalho da sprint Avaliação da Qualidade de Uso de Sistemas do curso de IHC/UX da PUC-Rio pela aluna Isabela Favaron. 
